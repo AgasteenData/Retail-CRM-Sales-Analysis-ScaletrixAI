@@ -14,7 +14,7 @@ This repository contains the complete work I did during my internship at **Scale
 
 ##  Objectives
 
-- Analyze Point of sales and customer data to:
+- Analyze point-of-sale (POS) sales and customer data to:
   - Understand customer behavior
   - Perform customer segmentation
   - Identify cross-sell opportunities
@@ -43,7 +43,9 @@ This repository contains the complete work I did during my internship at **Scale
    - Provided recommendations for future campaigns
 
 5. **KPI Metrics**
-   - CLTV, AOV, churn rate, basket size
+   - Customer Lifetime Value (CLTV)
+   - Average Order Value (AOV)
+   - churn rate, basket size
    - Store-level and category-level breakdowns
 
 ---
