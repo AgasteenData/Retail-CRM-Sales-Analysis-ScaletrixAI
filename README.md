@@ -14,7 +14,7 @@ This repository contains the complete work I did during my internship at **Scale
 
 ##  Objectives
 
-- Analyze POS sales and customer data to:
+- Analyze Point of sales and customer data to:
   - Understand customer behavior
   - Perform customer segmentation
   - Identify cross-sell opportunities
@@ -51,6 +51,8 @@ This repository contains the complete work I did during my internship at **Scale
 ## Visuals & Dashboards
 
 All key metrics and insights were visualized in **Power BI dashboards**, with drill-through capabilities across customer, product, and store levels.
+
+
 
 
 
